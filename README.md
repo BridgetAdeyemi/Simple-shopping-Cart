@@ -21,4 +21,4 @@ Click on Add to Cart to display the total number of items and the total price.
 Check the free shipping status—Yes for totals over $50, and No for totals under $50.
 
 LIVE DEMO      
-Checkout the live version of the project here
+Checkout the live version of the project here https://bridgetadeyemi.github.io/Simple-shopping-Cart/
